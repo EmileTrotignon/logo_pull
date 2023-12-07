@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name logo_pull)
+ (libraries vg gg vg.svg))
